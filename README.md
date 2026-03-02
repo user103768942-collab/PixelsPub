@@ -12,7 +12,7 @@
 Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT rooting).
 
 ----------------------
-
+100000% WORK
 ### TL;DR
 
 * Execute `adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS`.
@@ -99,6 +99,8 @@ ADB Procedures using a PC:
 
   <details>
 
+PHONE POCO F 7
+RAM 9999999
 * Your phone will prompt _Allow USB debugging?_ if it's the first time being connected on USB
   debugging mode. Tap _Allow_ or _OK_.
 * You may check _Always allow from this computer_ (Please check note at the end
@@ -140,7 +142,9 @@ ADB Procedures using a PC:
 ![6](docs/en/res/write_secure_settings.png)
 
 #### For macOS:
+VVIP  BOOST 
 
+NO CRASH 
 ```./adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS ```
 
 #### Note for MIUI, OnePlus and some other devices
@@ -183,12 +187,9 @@ ADB Procedures without using a PC:
 and activate it following the guide it provided. Then go back to _Pixels_ app to grant it permission
 by applying a resolution.
 
-</details>
 
 
 
-----------------------
-
-### You don't have to repeat this process unless you completely uninstall the app and reinstall it.
-
+</detail
+100% headshot✅✅
 
